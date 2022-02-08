@@ -8,15 +8,15 @@ Solving series of Business Problems related to Health Care Domain using Descript
   
 ## PROBLEM SUMMARY:
   The Challenge was divided into the following three parts, each of which had specific requirements that pertained to identifying anomalous entities in different aspects of the Medicare system:
-1. Part 1: Identify providers that overcharge for certain procedures or regions where procedures are too expensive.
-- Part 1A: Highest Cost Variation
-- Part 1B: Highest-Cost Claims by Provider
-- Part 1C: Highest-Cost Claims by Region
-- Part 1D: Highest Number of Procedures and Largest Differences between Claims and Reimbursements
-2. Part 2: Identify the three providers that are least similar to other providers and the three regions that are least similar to other regions.
-- Part 2A: Providers Least Like Others
-- Part 2B: Regions Least Like Others
-3. Part 3: Identify 10,000 Medicare patients who are involved in anomalous activities.
+1. **Part 1:** Identify providers that overcharge for certain procedures or regions where procedures are too expensive.
+- **Part 1A:** Highest Cost Variation
+- **Part 1B:** Highest-Cost Claims by Provider
+- **Part 1C:** Highest-Cost Claims by Region
+- **Part 1D:** Highest Number of Procedures and Largest Differences between Claims and Reimbursements
+2. **Part 2:** Identify the three providers that are least similar to other providers and the three regions that are least similar to other regions.
+- **Part 2A:** Providers Least Like Others
+- **Part 2B:** Regions Least Like Others
+3. **Part 3:** Identify 10,000 Medicare patients who are involved in anomalous activities.
 
 ## DATA AVAILABLE:
   Completing the different parts of the Challenge required using several data sources.
